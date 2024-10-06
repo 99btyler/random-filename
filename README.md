@@ -1,5 +1,5 @@
 # random-filename
-Generate a random string of words and/or numbers
+Generate a random string of letters and numbers
 
 # Getting Started
 Get this project set up locally
